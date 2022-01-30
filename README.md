@@ -17,8 +17,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   
   
-  
-  
 ---
   
 ### :woman_technologist: About Me :
@@ -45,6 +43,9 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=80Duce&theme=dark&background=000000)](https://git.io/streak-stats)
+   
+ ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=80Duce&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
    </div>
